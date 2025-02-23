@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnigmaticIcarus
 - 👀 I’m interested in computer architecture and machine learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Griffith is my waifu
 
